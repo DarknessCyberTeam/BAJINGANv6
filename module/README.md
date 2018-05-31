@@ -1,0 +1,3 @@
+# vbugmap
+(ID) vbugmap adalah tool yang mengizinkan anda untuk mengunduh Ransomware, Malware dan Trojan untuk perangkat Window dan Android. Memudahkan anda untuk membalas dendam pada mereka yang suka mengucilkan anda (WTF!). Tidak memungut biaya dan sangatlah menyenangkan tuk dijalankan.
+(EN) vbugmap is a tool that allows you to download Ransomware, Malware and Trojan for Window and Android devices. Enable you to take revenge on those who like to excommunicate you (WTF!). It does not charge a fee and is very fun to run.
